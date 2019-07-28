@@ -1,8 +1,7 @@
 version: 0.2.13
 https://233.com/233.exe
 
-io-games: 
-
+io-games-version: 1.0.0
 defly.io
 krunker.io
 shellshock.io
